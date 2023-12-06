@@ -12,7 +12,7 @@ body {
 }
 
 .navbar-tablet {
-  background: #2600ff;
+  background: rgb(157, 65, 131);
   display: none;
   color: #f14e95; 
   padding: 5px;
